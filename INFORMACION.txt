@@ -1,0 +1,18 @@
+data set recolectado desde google. (100 imagenes)
+elaborado 
+
+
+se utilizo 2 formas .. desde la silueta .. hasta el objetivo
+la red deberia de ser capaz de generar  a una persona con solo una silueta
+
+
+PARA EL ENTRENAMIENTO
+
+fueron en partes debido al GOOGLE colab, pero es aproximadamente 1,100 epocas de entrenamiento 
+
+link del video :
+https://www.youtube.com/watch?v=sVW729YO5fY
+
+por si ese no funciona
+https://www.youtube.com/watch?v=sVW729YO5fY&feature=youtu.be
+
