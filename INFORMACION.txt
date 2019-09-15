@@ -21,5 +21,6 @@ la generacion de la carpeta "RESULTADOS MEJORES", mas especifico del hombre leva
 de datos en diferentes posiciones, la gran mayoria del dataset son de personas en pie y de frente, por lo que su aprendizaje no
 seria eficiente
 
-
+la generacion de la carpeta "RESULTADOS MEJORES", de mujere_generada y mujer2_generada, no se genero muy bien porque creo que en el data set no
+habia suficientes datos de mujeres.
 
