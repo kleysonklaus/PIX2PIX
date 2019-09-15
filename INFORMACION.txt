@@ -16,3 +16,10 @@ https://www.youtube.com/watch?v=sVW729YO5fY
 por si ese no funciona
 https://www.youtube.com/watch?v=sVW729YO5fY&feature=youtu.be
 
+observaciones..
+la generacion de la carpeta "RESULTADOS MEJORES", mas especifico del hombre levantando una pierna, no se genero muy bien debido a la falta
+de datos en diferentes posiciones, la gran mayoria del dataset son de personas en pie y de frente, por lo que su aprendizaje no
+seria eficiente
+
+
+
