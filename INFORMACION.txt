@@ -30,3 +30,10 @@ la generacion de la carpeta "RESULTADOS MEJORES", de mujere_generada y mujer2_ge
 habia suficientes datos de mujeres.
 
 
+
+
+¿COMO SURGIO LA IDEA?
+principalmente se tenia como idea generar personajes (diseño de estos, de forma aleatoria) de videojuegos en donde ya no se tendrian que diseñar cada personaje, ya que solo se necesitaria siluetas random y de esa forma generar una persona
+
+mejora: con otra red neuronal todavia se podria mejorar pasando el resultado de la anterior y generar un molde para un personaje de 3 dimensiones
+
